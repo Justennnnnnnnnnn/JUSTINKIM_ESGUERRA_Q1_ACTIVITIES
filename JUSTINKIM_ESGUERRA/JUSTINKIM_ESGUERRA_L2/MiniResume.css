@@ -1,0 +1,44 @@
+
+.background {
+			background-color: black;
+		}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: aqua;
+}
+
+.educ {
+    color: red;
+}
+
+.Exp {
+    color: darkred;
+}
+
+.skill-1 {
+    color: violet;
+}
+
+.skill-2{
+    color: crimson;
+}
+
+.skill-3 {
+    color: chartreuse;
+}
+
+dd {
+    color: red;
+}
+
+.meow {
+    color: red;
+}
